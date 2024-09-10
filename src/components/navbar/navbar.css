@@ -1,0 +1,31 @@
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 1rem;
+    /* position: absolute; */
+}
+
+#navlogo{
+    font-size:1.5rem;
+    color: black;
+    margin-left: 1rem;
+}
+
+ul{
+    margin:  0 5rem 0 auto;
+
+    background-color: red;
+    display: flex;
+    
+}
+
+li{
+    list-style: none;
+
+}
+
+a{
+    list-style: none;
+}
