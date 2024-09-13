@@ -2,7 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import App from './Pages/App.jsx'
 import './index.css'
-import { SceneIDProvider } from './Pages/SceneIDcontext.jsx';
+import { SceneIDProvider } from './Context/SceneIDcontext.jsx';
 
 
 createRoot(document.getElementById('root')).render(

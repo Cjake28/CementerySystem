@@ -1,4 +1,4 @@
-
+import './BurialSearch.css'
 
 export default function BurialSearch(){
     return(

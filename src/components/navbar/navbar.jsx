@@ -6,8 +6,9 @@ export default function Navbar() {
     <nav>
       <div id="navlogo">LOGO</div>
       <ul>
-        <li><Link to="/">HOME</Link></li>
-        <li><Link to="/cementerylot">cementerylot</Link></li>
+        <li><Link to="/">Virtual Tour</Link></li>
+        <li><Link to="/cementerylot">Cementery Lot</Link></li>
+        <li><Link to="/BurialSearch">Burial Search</Link></li>
         
       </ul>
     </nav>
