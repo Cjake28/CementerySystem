@@ -39,10 +39,10 @@ const polygonOptions = {
   fillOpacity: 0,
 };
 
-// Ensure satellite mode with proper controls
+
 const options = {
   disableDefaultUI: true,
-  mapTypeControl: false, // Enable map type control to switch views
+  mapTypeControl: false, 
   mapTypeId:"satellite" 
 };
 
